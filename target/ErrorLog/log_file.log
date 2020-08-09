@@ -1,0 +1,9 @@
+2020-08-08 16:38:01 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 16:38:01 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 16:38:01 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 16:43:46 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 16:43:46 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 16:43:46 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 17:02:57 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 17:02:57 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 17:02:57 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.

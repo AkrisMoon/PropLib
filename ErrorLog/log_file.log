@@ -1,0 +1,284 @@
+2020-08-05 22:31:06 WARN  Prop:69 - В файле config.properties не обнаружено поляmyCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 22:44:29 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 22:46:31 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 22:46:51 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 22:47:50 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 22:48:32 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 22:49:03 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 22:50:06 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 23:30:23 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 23:30:23 WARN  Prop:73 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-05 23:30:23 WARN  Prop:73 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-05 23:30:23 ERROR Prop:77 - java.lang.IllegalArgumentException: Can not set static load.prop.Address field load.prop.Prop.address to java.lang.String
+2020-08-05 23:30:23 WARN  Prop:73 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:Default age.
+2020-08-05 23:30:23 ERROR Prop:77 - java.lang.IllegalArgumentException: Can not set static int field load.prop.Prop.myCompanyOwnerYearsOld to java.lang.String
+2020-08-05 23:31:38 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 23:31:38 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner.Значения по умолчанию для поляmyCompanyOwner не обнаружено, поле инициализирванно как null
+2020-08-05 23:31:38 WARN  Prop:69 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address.Значения по умолчанию для поляaddress не обнаружено, поле инициализирванно как null
+2020-08-05 23:31:38 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old.Значения по умолчанию для поляmyCompanyOwnerYearsOld не обнаружено, поле инициализирванно как null
+2020-08-05 23:31:38 ERROR Prop:77 - java.lang.IllegalArgumentException: Can not set static int field load.prop.Prop.myCompanyOwnerYearsOld to null value
+2020-08-05 23:32:09 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:09 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner.Значения по умолчанию для поляmyCompanyOwner не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:09 WARN  Prop:69 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address.Значения по умолчанию для поляaddress не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:09 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old.Значения по умолчанию для поляmyCompanyOwnerYearsOld не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:09 ERROR Prop:77 - java.lang.IllegalArgumentException: Can not set static int field load.prop.Prop.myCompanyOwnerYearsOld to null value
+2020-08-05 23:32:21 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:21 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner.Значения по умолчанию для поляmyCompanyOwner не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:21 WARN  Prop:69 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address.Значения по умолчанию для поляaddress не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:21 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old.Значения по умолчанию для поляmyCompanyOwnerYearsOld не обнаружено, поле инициализирванно как null
+2020-08-05 23:32:21 ERROR Prop:77 - java.lang.IllegalArgumentException: Can not set static int field load.prop.Prop.myCompanyOwnerYearsOld to null value
+2020-08-05 23:34:59 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-05 23:34:59 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner.Значения по умолчанию для поляmyCompanyOwner не обнаружено, поле инициализирванно как null
+2020-08-05 23:34:59 WARN  Prop:69 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address.Значения по умолчанию для поляaddress не обнаружено, поле инициализирванно как null
+2020-08-05 23:34:59 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old.Значения по умолчанию для поляmyCompanyOwnerYearsOld не обнаружено, поле инициализирванно как null
+2020-08-06 00:00:26 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-06 00:01:05 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-06 00:01:31 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-06 00:01:43 WARN  Prop:69 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-06 00:03:18 WARN  Prop:73 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:25:57 WARN  Prop:73 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:46:02 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:47:48 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:49:43 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:50:40 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:50:40 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:50:48 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:51:19 WARN  Prop:53 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-07 20:54:59 WARN  Prop:53 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-07 20:56:42 WARN  Prop:53 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-07 20:56:42 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:57:18 WARN  Prop:53 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-07 20:57:18 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:58:33 WARN  Prop:53 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-07 20:58:33 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:58:33 WARN  Prop:57 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 20:58:33 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static load.prop.Address field load.prop.Prop.address to java.lang.String
+2020-08-07 20:59:18 WARN  Prop:53 - В файле config.properties не обнаружено поля myCompanyName с значением: com.mycompany.name.Значения по умолчанию для поляmyCompanyName не обнаружено, поле инициализирванно как null
+2020-08-07 20:59:18 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 20:59:18 WARN  Prop:57 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 20:59:18 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static load.prop.Address field load.prop.Prop.address to java.lang.String
+2020-08-07 21:00:12 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:00:12 WARN  Prop:57 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 21:00:12 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static load.prop.Address field load.prop.Prop.address to java.lang.String
+2020-08-07 21:00:12 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:Default age.
+2020-08-07 21:00:12 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static java.lang.Integer field load.prop.Prop.myCompanyOwnerYearsOld to java.lang.String
+2020-08-07 21:01:45 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:01:45 WARN  Prop:57 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 21:01:45 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static load.prop.Address field load.prop.Prop.address to java.lang.String
+2020-08-07 21:01:45 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:Default age.
+2020-08-07 21:01:45 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static java.lang.Integer field load.prop.Prop.myCompanyOwnerYearsOld to java.lang.String
+2020-08-07 21:07:56 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:07:56 WARN  Prop:57 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 21:07:56 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static load.prop.Address field load.prop.Prop.address to java.lang.String
+2020-08-07 21:07:56 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:Default age.
+2020-08-07 21:07:56 ERROR Prop:61 - java.lang.IllegalArgumentException: Can not set static java.lang.Integer field load.prop.Prop.myCompanyOwnerYearsOld to java.lang.String
+2020-08-07 21:09:59 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 21:10:21 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:10:21 ERROR Prop:61 - java.lang.NumberFormatException: For input string: "Default owner"
+2020-08-07 21:10:21 WARN  Prop:57 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 21:14:01 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:14:01 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 21:14:01 ERROR Prop:81 - java.lang.NumberFormatException: null
+2020-08-07 21:15:32 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:15:32 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 21:15:32 ERROR Prop:81 - java.lang.NumberFormatException: null
+2020-08-07 21:19:23 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:19:23 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 21:20:20 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:20:20 WARN  Prop:59 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 21:20:20 WARN  Prop:59 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 21:40:50 WARN  Prop:70 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 21:40:50 WARN  Prop:70 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 21:40:50 WARN  Prop:70 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 22:43:46 WARN  Prop:70 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 22:43:46 WARN  Prop:70 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 22:43:46 WARN  Prop:70 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 22:43:46 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:43:46 WARN  Prop:70 - В файле config.properties не обнаружено поля myCompanyOwner с значением: com.mycompany.Owner, поле проинициализированно значением по умолчанию:Default owner.
+2020-08-07 22:43:46 WARN  Prop:70 - В файле config.properties не обнаружено поля address с значением: com.mycompany.address, поле проинициализированно значением по умолчанию:Default address.
+2020-08-07 22:43:46 WARN  Prop:70 - В файле config.properties не обнаружено поля myCompanyOwnerYearsOld с значением: com.mycompany.years.old, поле проинициализированно значением по умолчанию:0.
+2020-08-07 22:53:46 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:53:46 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:53:46 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:53:46 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:53:46 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:53:46 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:53:46 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:54:37 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:54:37 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:54:37 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:54:37 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:54:37 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:54:37 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:54:37 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:55:42 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:55:42 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:55:42 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:55:42 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:55:42 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:55:42 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:55:42 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:55:55 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:55:55 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:55:55 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:55:55 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:55:55 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:55:55 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:55:55 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:56:14 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:56:14 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:56:14 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:57:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:57:25 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:57:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:57:48 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:57:48 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:57:48 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:58:17 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:58:17 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:58:17 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:58:29 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:58:29 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:58:29 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:58:29 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:58:29 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:58:29 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:58:29 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:58:49 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:58:49 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:58:49 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:58:49 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:58:49 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:58:49 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:58:49 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:59:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:59:25 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:59:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 22:59:25 ERROR Prop:103 - java.io.FileNotFoundException: 1111 (Не удается найти указанный файл)
+2020-08-07 22:59:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 22:59:25 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 22:59:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:01:02 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:01:02 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:01:02 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:01:02 ERROR Prop:103 - java.io.FileNotFoundException: d1 (Не удается найти указанный файл)
+2020-08-07 23:01:02 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:01:02 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:01:02 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:12:07 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:12:07 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:12:07 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:12:37 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:12:37 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:12:37 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:17:56 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:17:56 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:17:56 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:20:45 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:20:45 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:20:45 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:29:09 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:29:09 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:29:09 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:30:16 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:30:16 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:30:16 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:30:49 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:30:49 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:30:49 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:32:58 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:32:58 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:32:58 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:33:48 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:33:48 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:33:48 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:34:32 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:34:32 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:34:32 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:34:53 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:34:53 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:34:53 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:35:17 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:35:17 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:35:17 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:36:23 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:36:23 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:36:23 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:37:44 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:37:44 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:37:44 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:39:52 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:39:52 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:39:52 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:40:16 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:40:16 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:40:16 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:57:38 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:57:38 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:57:38 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-07 23:57:56 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-07 23:57:56 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-07 23:57:56 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 00:04:53 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 00:04:53 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 00:04:53 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 02:38:31 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 02:38:31 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 02:38:31 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 02:40:51 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 02:40:51 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 02:40:51 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 02:45:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 02:45:25 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 02:45:25 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 02:47:03 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 02:47:03 WARN  Prop:70 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 02:47:03 WARN  Prop:70 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:10:46 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:10:46 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:10:46 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:12:05 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:12:05 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:12:05 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:13:23 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:13:23 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:13:23 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:14:09 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:14:09 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:14:09 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:15:07 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:15:07 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:15:07 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:23:51 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:23:51 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:23:51 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:28:46 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:28:46 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:28:46 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:51:10 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:51:10 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:51:10 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 15:53:21 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 15:53:21 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 15:53:21 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 16:30:32 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 16:30:32 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 16:30:32 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 16:30:44 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 16:30:44 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 16:30:44 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 16:35:32 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 16:35:32 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 16:35:32 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 16:36:41 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 16:36:41 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 16:36:41 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 16:44:29 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 16:44:29 WARN  Prop:86 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 16:44:29 WARN  Prop:86 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 17:05:21 WARN  Prop:77 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 17:05:21 WARN  Prop:77 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 17:05:21 WARN  Prop:77 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
+2020-08-08 17:05:39 WARN  Prop:77 - No field found in *.properties file with name myCompanyOwner and value: com.mycompany.Owner, the field is initialized with the default value: Default owner.
+2020-08-08 17:05:39 WARN  Prop:77 - No field found in *.properties file with name address and value: com.mycompany.address, the field is initialized with the default value: Default address.
+2020-08-08 17:05:39 WARN  Prop:77 - No field found in *.properties file with name myCompanyOwnerYearsOld and value: com.mycompany.years.old, the field is initialized with the default value: 0.
